@@ -1,0 +1,7 @@
+d:\мои документы\visual studio 2012\Projects\Wallet\WalletTest\bin\Debug\WalletTest.dll
+d:\мои документы\visual studio 2012\Projects\Wallet\WalletTest\bin\Debug\WalletTest.pdb
+d:\мои документы\visual studio 2012\Projects\Wallet\WalletTest\bin\Debug\Wallet.exe
+d:\мои документы\visual studio 2012\Projects\Wallet\WalletTest\bin\Debug\Wallet.pdb
+d:\мои документы\visual studio 2012\Projects\Wallet\WalletTest\obj\Debug\WalletTest.csprojResolveAssemblyReference.cache
+d:\мои документы\visual studio 2012\Projects\Wallet\WalletTest\obj\Debug\WalletTest.dll
+d:\мои документы\visual studio 2012\Projects\Wallet\WalletTest\obj\Debug\WalletTest.pdb

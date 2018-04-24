@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wallet", "Wallet\Wallet.csproj", "{DDE9B61D-5B24-462A-B941-AE070390F069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletTest", "WalletTest\WalletTest.csproj", "{8F1A7F64-EC1A-4A54-AAEF-27D6016D0EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE9B61D-5B24-462A-B941-AE070390F069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE9B61D-5B24-462A-B941-AE070390F069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE9B61D-5B24-462A-B941-AE070390F069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE9B61D-5B24-462A-B941-AE070390F069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F1A7F64-EC1A-4A54-AAEF-27D6016D0EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1A7F64-EC1A-4A54-AAEF-27D6016D0EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1A7F64-EC1A-4A54-AAEF-27D6016D0EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1A7F64-EC1A-4A54-AAEF-27D6016D0EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
